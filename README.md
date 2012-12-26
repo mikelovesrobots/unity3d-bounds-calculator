@@ -1,10 +1,12 @@
 Bounds calculators
 
-  Bounds bounds = new GameObjectBoundsCalculator().Calculate(gameObject);
-  # => Center: (0.0, 0.8, 0.0), Extents: (0.5, 0.8, 0.5)
+```
+    Bounds bounds = new GameObjectBoundsCalculator().Calculate(gameObject);
+    # => Center: (0.0, 0.8, 0.0), Extents: (0.5, 0.8, 0.5)
 
-  bounds.size
-  # => (1.0, 1.6, 1.0)
+    bounds.size
+    # => (1.0, 1.6, 1.0)
+```
 
 The scripts come in two flavors:
 

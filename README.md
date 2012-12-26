@@ -27,4 +27,10 @@ what kind of city-sized meshes you guys out there are building.
 
 Contact me if you've got any questions, bugs or contract work to throw my way.
 
-Cheers.
+Cheers,
+
+Mike
+
+mikelovesrobots@gmail.com
+
+@mikelovesrobots on Twitter
